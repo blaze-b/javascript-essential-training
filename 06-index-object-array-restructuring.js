@@ -23,7 +23,7 @@ console.log(finalOutput);
 
 let test = {
     names: finalOutput,
-    printNames: function (option) {
+    printNames: (option) => {
         console.log(option);
         console.log(`Printing names ${this.names}`);
     }
