@@ -5,7 +5,7 @@
 
 ## Contents
 
-  - Intro on the JavaScript [Variables](https://github.com/brianblaze14/javascript-essential-training/blob/master/js/01-index-intro.js)
+  - [Variables](https://github.com/brianblaze14/javascript-essential-training/blob/master/js/01-index-intro.js)
   - [Primitive varibles used in JAVA Scripting and dynamic type casting](https://github.com/brianblaze14/javascript-essential-training/blob/master/js/02-index-primitive-variable-types.js)
   - [Reference variables used in Java script](https://github.com/brianblaze14/javascript-essential-training/blob/master/js/03-index-reference-variable-types.js)
   - [Arrow function syntax details](https://github.com/brianblaze14/javascript-essential-training/blob/master/js/04-index-Arrow-function.js)
